@@ -1,2 +1,6 @@
 # calculadora-resistencia
-//Criar uma calculadora de resistores //O usuario vai informar quatro cores e o programa dara a asaida de qual o valor do resistor //Dica: Usar a calculadora de qualquer site bom. //Trabalhar com resistores de 4 faixas (4 cores) // Vermelho, preto, vermelho, Dourado
+O projeto consiste em criar uma calculadora de resistores de quatro faixas (Exemplo: Vermelha, preta, vermelha e dourada).
+O usuário deverá inserir as respectivas cores das faixas e o programa retorna o valor total da resistência.
+
+Autor: Caio Adamo
+
